@@ -93,4 +93,4 @@ These guys helped me a lot:
 https://pythonprogramming.net/training-custom-objects-tensorflow-object-detection-api-tutorial/
 https://towardsdatascience.com/how-to-train-your-own-object-detector-with-tensorflows-object-detector-api-bec72ecfe1d9
 
-
+Parts of their code were modified and included here.
